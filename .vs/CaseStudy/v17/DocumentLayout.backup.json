@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69CB442-F2C6-4F2F-8A5E-0FF8ADF219A5}|CarConnect.Tests\\CarConnect.Tests.csproj|c:\\users\\srini\\documents\\hexaware\\c#\\casestudy\\carconnect.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69CB442-F2C6-4F2F-8A5E-0FF8ADF219A5}|CarConnect.Tests\\CarConnect.Tests.csproj|solutionrelative:carconnect.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF2EA43-D252-45BE-B4E9-BA977162E149}|CarConnect\\CarConnect.csproj|c:\\users\\srini\\documents\\hexaware\\c#\\casestudy\\carconnect\\carconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BF2EA43-D252-45BE-B4E9-BA977162E149}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\carconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF2EA43-D252-45BE-B4E9-BA977162E149}|CarConnect\\CarConnect.csproj|c:\\users\\srini\\documents\\hexaware\\c#\\casestudy\\carconnect\\mainmodule\\carconnectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF2EA43-D252-45BE-B4E9-BA977162E149}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\mainmodule\\carconnectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarConnect",
+              "DocumentMoniker": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\CarConnect\\CarConnect.csproj",
+              "RelativeDocumentMoniker": "CarConnect\\CarConnect.csproj",
+              "ToolTip": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\CarConnect\\CarConnect.csproj",
+              "RelativeToolTip": "CarConnect\\CarConnect.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T12:33:01.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarConnectMenu.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\CarConnect\\MainModule\\CarConnectMenu.cs",
+              "RelativeDocumentMoniker": "CarConnect\\MainModule\\CarConnectMenu.cs",
+              "ToolTip": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\CarConnect\\MainModule\\CarConnectMenu.cs",
+              "RelativeToolTip": "CarConnect\\MainModule\\CarConnectMenu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:27:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\CarConnect.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "CarConnect.Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\srini\\Documents\\Hexaware\\C#\\CaseStudy\\CarConnect.Tests\\Tests.cs",
+              "RelativeToolTip": "CarConnect.Tests\\Tests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:15:50.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
